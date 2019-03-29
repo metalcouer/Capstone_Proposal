@@ -1,4 +1,4 @@
-# Diane Sanchez Capstone_Proposal
+# Diane Sanchez Capstone Proposal
 
 ## Problem Statement
 
@@ -29,6 +29,26 @@ to help change that stigma starting with office ergonomics. There are a lot of s
 
 ## ERD
 <img width="566" alt="Screen Shot 2019-03-29 at 1 23 55 PM" src="https://user-images.githubusercontent.com/42956051/55257689-46b4ce00-5226-11e9-9d7d-f06ad7b32ab3.png">
+
+## Serve Route Plan
+```
+POST
+  ('/users')
+   (/:email) Post route to create user profile
+   
+PATCH
+  ('/users')
+    (/:email) Patch route for form to input email/name/age/height/weight
+    
+PATCH
+  ('/user')
+    ('/:user_id) Patch route to update user profile
+    
+POST
+  ('/stretcher')
+    ('/:user_id) Post route to save stretches
+   
+```
 
 
 
