@@ -25,7 +25,7 @@ to help change that stigma starting with office ergonomics. There are a lot of s
 ![image](https://user-images.githubusercontent.com/42956051/55254765-634d0800-521e-11e9-8d15-36397642a979.png)
 
 ## Palette
-<img width="1428" alt="Screen Shot 2019-03-29 at 12 36 13 PM" src="https://user-images.githubusercontent.com/42956051/55255110-61d00f80-521f-11e9-9846-3b58b808ab76.png">
+<img width="1401" alt="Screen Shot 2019-03-29 at 1 46 46 PM" src="https://user-images.githubusercontent.com/42956051/55258696-36522280-5229-11e9-810d-1d8936e2fe5a.png">
 
 ## ERD
 <img width="566" alt="Screen Shot 2019-03-29 at 1 23 55 PM" src="https://user-images.githubusercontent.com/42956051/55257689-46b4ce00-5226-11e9-9d7d-f06ad7b32ab3.png">
