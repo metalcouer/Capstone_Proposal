@@ -44,8 +44,12 @@ PATCH
   ('/user')
     ('/:user_id) Patch route to update user profile
     
+GET
+  ('/stretches')
+    ('/:stretches_id) Get all route to return array of all stretch objects
+    
 POST
-  ('/stretcher')
+  ('/stretches')
     ('/:user_id) Post route to save stretches
    
 ```
