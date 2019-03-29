@@ -1,4 +1,4 @@
-# Diane Sanchez Capstone Proposal
+# Diane Sanchez - Capstone Proposal
 
 ## Problem Statement
 
@@ -49,6 +49,9 @@ POST
     ('/:user_id) Post route to save stretches
    
 ```
+## Planning Tool & User Stories
+
+### [User Stories on Trello](https://trello.com/b/YAphSBeQ/mindfull)
 
 
 
