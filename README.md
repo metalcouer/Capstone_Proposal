@@ -22,7 +22,7 @@ to help change that stigma starting with office ergonomics. There are a lot of s
 
 
 ## Wireframe
-![image](https://user-images.githubusercontent.com/42956051/55254765-634d0800-521e-11e9-8d15-36397642a979.png)
+<img width="874" alt="Screen Shot 2019-03-29 at 2 28 14 PM" src="https://user-images.githubusercontent.com/42956051/55260890-2ccbb900-522f-11e9-9973-0aa8a8ab6873.png">
 
 ## Palette
 <img width="1401" alt="Screen Shot 2019-03-29 at 1 46 46 PM" src="https://user-images.githubusercontent.com/42956051/55258696-36522280-5229-11e9-810d-1d8936e2fe5a.png">
