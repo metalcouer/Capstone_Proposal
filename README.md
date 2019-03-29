@@ -22,3 +22,8 @@ to help change that stigma starting with office ergonomics. There are a lot of s
 
 
 ## Wireframe
+![image](https://user-images.githubusercontent.com/42956051/55254765-634d0800-521e-11e9-8d15-36397642a979.png)
+
+## Palette
+
+
